@@ -1,3 +1,7 @@
+👉 Looking for the original project?  
+Go to [https://github.com/your-primary-username/your-repo](https://github.com/your-primary-username/your-repo)
+
+
 # 📚 MyCampus – College Management System
 
 **MyCampus** is a full-stack college management system designed to streamline student registration, authentication, and profile management. Built with modern web technologies, it offers a responsive, user-friendly interface to simplify academic operations.
