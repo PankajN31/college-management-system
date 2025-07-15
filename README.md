@@ -6,7 +6,7 @@
 If you find this project useful,  
 **please consider giving it a ⭐ star and a 🍴 fork** to support development and help it reach more people!
 
-
+📌 [Discussion: How to contribute](https://github.com/your-repo/discussions/123)
 
 # 📚 MyCampus – College Management System
 
