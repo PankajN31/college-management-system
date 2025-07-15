@@ -1,5 +1,5 @@
 👉 Looking for the original project?  
-Go to [https://github.com/your-primary-username/your-repo](https://github.com/your-primary-username/your-repo)
+Go to [https://github.com/yogeshrjk/college-management-system](https://github.com/yogeshrjk/college-management-system)
 
 
 # 📚 MyCampus – College Management System
