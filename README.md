@@ -1,5 +1,11 @@
-👉 Looking for the original project?  
-Go to [https://github.com/yogeshrjk/college-management-system](https://github.com/yogeshrjk/college-management-system)
+### 📢 Please Support the Original Repo!
+
+> ✅ This is the original and actively maintained version of the project.
+👉 [https://github.com/yogeshrjk/college-management-system](https://github.com/yogeshrjk/college-management-system)
+
+If you find this project useful,  
+**please consider giving it a ⭐ star and a 🍴 fork** to support development and help it reach more people!
+
 
 
 # 📚 MyCampus – College Management System
